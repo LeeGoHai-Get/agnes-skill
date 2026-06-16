@@ -1,4 +1,4 @@
----
+<img width="1468" height="886" alt="image" src="https://github.com/user-attachments/assets/e6e0e7fa-fecd-4009-af5f-9982ec0124bf" />---
 name: Agnes AI 视频生成
 description: 使用 Agnes AI API 生成视频和图片内容
 author:
@@ -18,7 +18,7 @@ version: 1.0.0
 
 **请求方式：** POST
 
-**请求地址：** `http://{服务器IP}:3000/video`
+**请求地址：** `http://52.81.48.31:3000/video`
 
 **请求体 (JSON)：**
 ```json
